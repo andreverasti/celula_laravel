@@ -1,4 +1,4 @@
-<img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2023/03/Banner-%E2%80%93-18.png" alt="banner">
+<img src="https://codebrisk.com/assets/images/posts/1625808145_laravel-banner1.webp" alt="banner">
 	<h1>Repositório de Atividades de Desenvolvimento WEB</h1>
 	<p>Este repositório é destinado a receber as atividades propostas no curso de desenvolvimento web, que abrange os módulos de iniciação à web (HTML, CSS e JavaScript), PHP e Laravel.</p>
 	<h2>Módulos</h2>
